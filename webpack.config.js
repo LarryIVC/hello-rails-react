@@ -7,7 +7,7 @@ module.exports = {
   entry: {
     application: "./app/javascript/application.js"
   },
-  modules: {
+  module: {
     rules: [
       {
         test: /\.js$/,
